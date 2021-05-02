@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypKkXkVDw2oKv5FieO8LIw87x0SvOihwa0VP5C2V5ExpQuZOLOUuey2q9ycHC8aIibMCEdI8NbyJXTp7hmWqyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\groya\\Documents\\Xamarin Aplicaciones Moviles\\GridTutorial\\GridTutorial\\GridTutorial.iOS\\GridTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\groya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\groya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\groya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
